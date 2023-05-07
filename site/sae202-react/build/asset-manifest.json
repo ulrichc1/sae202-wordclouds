@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.301ef9c0.css",
+    "main.js": "/static/js/main.6aa95bab.js",
+    "static/js/787.551bd14e.chunk.js": "/static/js/787.551bd14e.chunk.js",
+    "static/media/chirac2.jpg": "/static/media/chirac2.f4a6cd22a6f4d3820cc6.jpg",
+    "static/media/chirac_1.png": "/static/media/chirac_1.33e77a2d80ad55d50421.png",
+    "static/media/giscard.png": "/static/media/giscard.0f979fc42d8e7d25a417.png",
+    "static/media/mitterand2.png": "/static/media/mitterand2.62adcfe289dccec3f355.png",
+    "static/media/sarkozy.png": "/static/media/sarkozy.9259f08e730d2407e01f.png",
+    "static/media/chirac_2.png": "/static/media/chirac_2.076ad2ad23faa15df585.png",
+    "static/media/hollande.png": "/static/media/hollande.02db3a2f8fe37c4a0c16.png",
+    "static/media/all.png": "/static/media/all.83bdc251a068c14aba55.png",
+    "static/media/macron_2.png": "/static/media/macron_2.4f0b64270130b8399453.png",
+    "static/media/macron.png": "/static/media/macron.cf48e83d7a6eecb60be3.png",
+    "static/media/mitterand.png": "/static/media/mitterand.254a976887d8ce44ad57.png",
+    "static/media/macron2.jpg": "/static/media/macron2.a9c725f463d71dd71c08.jpg",
+    "static/media/macron1.jpeg": "/static/media/macron1.4c83024f0337659ce02a.jpeg",
+    "static/media/sarkozy.jpeg": "/static/media/sarkozy.07943d5007474b69596a.jpeg",
+    "static/media/mitterand1.jpeg": "/static/media/mitterand1.405ef819dbcaff43e312.jpeg",
+    "static/media/mitterand2.jpg": "/static/media/mitterand2.b91dc60627459bcd70f9.jpg",
+    "static/media/chirac1.jpeg": "/static/media/chirac1.5fe97ca0722038ed80af.jpeg",
+    "static/media/hollande.jpeg": "/static/media/hollande.a15ff122bc881902ef43.jpeg",
+    "static/media/1974-2022.csv": "/static/media/1974-2022.bacdc40045fa84d0a767.csv",
+    "static/media/giscard.jpeg": "/static/media/giscard.58393ddf95d0ac1d09d3.jpeg",
+    "index.html": "/index.html",
+    "main.301ef9c0.css.map": "/static/css/main.301ef9c0.css.map",
+    "main.6aa95bab.js.map": "/static/js/main.6aa95bab.js.map",
+    "787.551bd14e.chunk.js.map": "/static/js/787.551bd14e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.301ef9c0.css",
+    "static/js/main.6aa95bab.js"
+  ]
+}
