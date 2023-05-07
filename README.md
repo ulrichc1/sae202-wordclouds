@@ -15,7 +15,7 @@ COUDIN Ulrich - LAMARQUE Noé - MOLINIER Hugo
 - pypdf2 | version 3.0.1
 - Django | version 4.2.1
 
-Les modules sont à installer via la commande pip install <nom_du_module> dans le terminal de votre IDE (PyCharm, VSCode, etc...).
+Les modules sont à installer via la commande 'pip install <nom_du_module>' dans le terminal de votre IDE (PyCharm, VSCode, etc...).
 Les modules à installer sont également présents dans le fichier 'requirements.txt' situé à la racine du projet.
 
 /*****************************************************************************/
@@ -38,6 +38,7 @@ Afin de pouvoir utiliser le logiciel avec interface web (Django):
                 - python manage.py runserver (obligatoire)
 Le site web est accessible à l'adresse suivante : http://localhost:8000/
 
+LE SITE WEB EST HÉBERGÉ SUR L'ADRESSE SUIVANTE : https://wordclouds.ulrichcoudin.com (si vous souhaitez directement accéder au site web)
 /*****************************************************************************/
 
 Veuillez noter qu'il est impératif que les nuages de mots soient générés et stockés dans le dossier './site/sae202-react/ sinon ils n'apparaitront pas sur le site et risquent même de générer une erreur.
@@ -92,15 +93,17 @@ Les images de nuage de mots étant déjà générées, les allocutions nommées 
 /*****************************************************************************/
 
 RÉSUMÉ : 
-Le répertoire './src' contient les fichiers sources du programme principal (en console).
-Le répertoire './site' contient les fichiers sources du site web (en React hébergé par un serveur Django).
-Le répertoire './build' contient la documentation du projet.
-Le répertoire './csv' contient les fichiers .csv générés par le programme principal (données brutes des occurences de mots dans les allocutions).
-Le répertoire './wordclouds' contient les images des nuages de mots générés par le programme principal.
-Le répertoire './analysis' contient les images des graphiques de comparaisons entre les différents mandats (généré par le programme tfidf.py dans le répertoire './src').
-Le répertoire './doc' contient la documentation du projet à compiler (grâce au module Sphinx).
-Le répertoire './pdf' contient la totalité des allocutions présidentielles du Nouvel An depuis 1974 en format .pdf (téléchargées depuis le site de l'Élysée).
+  - Le répertoire './src' contient les fichiers sources du programme principal (en console).
+  - Le répertoire './site' contient les fichiers sources du site web (en React hébergé par un serveur Django).
+  - Le répertoire './build' contient la documentation du projet.
+  - Le répertoire './csv' contient les fichiers .csv générés par le programme principal (données brutes des occurences de mots dans les allocutions).
+  - Le répertoire './wordclouds' contient les images des nuages de mots générés par le programme principal.
+  - Le répertoire './analysis' contient les images des graphiques de comparaisons entre les différents mandats (généré par le programme tfidf.py dans le répertoire './src').
+  - Le répertoire './doc' contient la documentation du projet à compiler (grâce au module Sphinx).
+  - Le répertoire './pdf' contient la totalité des allocutions présidentielles du Nouvel An depuis 1974 en format .pdf (téléchargées depuis le site de l'Élysée).
 
 /*****************************************************************************/
 
 ps : Ne vous occupez pas trop des fichiers .rst, car ils sont auto-générés par le module Sphinx (documentation du projet).
+
+si react et node.js sont déjà installés sur votre système, situez vous à la racine du site web react '/site/sae202-react/ et exécutez juste : 'npm run start' vous devriez avoir accès au site via les adresses suivantes : 'localhost:3000' ou '127.0.0.1:3000'.
