@@ -18,6 +18,8 @@ COUDIN Ulrich - LAMARQUE Noé - MOLINIER Hugo
 Les modules sont à installer via la commande 'pip install <nom_du_module>' dans le terminal de votre IDE (PyCharm, VSCode, etc...).
 Les modules à installer sont également présents dans le fichier 'requirements.txt' situé à la racine du projet.
 
+! PENSEZ À CRÉER UN ENVIRONNEMENT VIRTUEL (venv) !
+
 /*****************************************************************************/
 
 WARNING : LE FICHIER 'france.png' EST IMPÉRATIF POUR QUE LE PROGRAMME PRINCIPAL FONCTIONNE CORRECTEMENT (génération des nuages de mots à partir d'un masque).
