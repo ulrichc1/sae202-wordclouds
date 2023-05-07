@@ -3,6 +3,7 @@ BUT INFORMATIQUE
 GROUPE B2:
 COUDIN Ulrich - LAMARQUE Noé - MOLINIER Hugo
 
+(lien github : https://github.com/ulrichc1/sae202-wordclouds)
 
 /**** INSTALLER IMPÉRATIVEMENT CES MODULES AVANT D'UTILISER LE LOGICIEL *****/
 - pandas | version 2.0.1
