@@ -38,7 +38,9 @@ Afin de pouvoir utiliser le logiciel avec interface web (Django):
                 - python manage.py runserver (obligatoire)
 Le site web est accessible à l'adresse suivante : http://localhost:8000/
 
-LE SITE WEB EST HÉBERGÉ SUR L'ADRESSE SUIVANTE : https://wordclouds.ulrichcoudin.com (si vous souhaitez directement accéder au site web)
+LE SITE WEB EST HÉBERGÉ SUR L'ADRESSE SUIVANTE : https://wordclouds.ulrichcoudin.com
+ (si vous souhaitez directement accéder au site web)
+ 
 /*****************************************************************************/
 
 Veuillez noter qu'il est impératif que les nuages de mots soient générés et stockés dans le dossier './site/sae202-react/ sinon ils n'apparaitront pas sur le site et risquent même de générer une erreur.
