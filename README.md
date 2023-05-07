@@ -19,6 +19,11 @@ COUDIN Ulrich - LAMARQUE Noé - MOLINIER Hugo
 Les modules sont à installer via la commande 'pip install <nom_du_module>' dans le terminal de votre IDE (PyCharm, VSCode, etc...).
 Les modules à installer sont également présents dans le fichier 'requirements.txt' situé à la racine du projet.
 
+Il vous faudra également installer les bibliothèques Spacy suivantes pour faire fonctionner le programme principal :
+
+- "fr_core_news_sm" : python -m spacy download fr_core_news_sm (commande CLI)
+- "fr_core_news_md" : python -m spacy download fr_core_news_md (commande CLI)
+
 ! PENSEZ À CRÉER UN ENVIRONNEMENT VIRTUEL (venv) !
 
 /*****************************************************************************/
