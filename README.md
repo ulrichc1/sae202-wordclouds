@@ -1,6 +1,11 @@
 SAE 2.02 - Exploration algorithmique d'un problème
+
 BUT INFORMATIQUE
+
+IUT de Créteil-Vitry
+
 GROUPE B2:
+
 COUDIN Ulrich - LAMARQUE Noé - MOLINIER Hugo
 
 (lien github : https://github.com/ulrichc1/sae202-wordclouds)
